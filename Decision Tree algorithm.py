@@ -1,13 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # GRIP - The Spark Foundation Internship Program
 
 # ## Data Science and Business Analytics
 
 # ## Prediction using Decision Tree Algorithm
 
-# ## Author : Alladi Varsha
+# ## Author : Garv Kalia
 
 # ## Problem Statement : 
 
